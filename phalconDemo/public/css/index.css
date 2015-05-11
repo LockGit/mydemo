@@ -1,0 +1,38 @@
+body{
+	background: #fff;
+}
+#book ul.header{
+	width: 300px;
+	background-color: #f60;
+	text-align: center;
+}
+#book ul.header li{
+	list-style-type: none;
+	display: inline-block;
+	margin: 0 15px 0 0 ;
+}
+#book ul.header li a{
+	text-decoration: none;
+}
+#book ul.header li a:hover{
+	cursor: pointer;
+	color: #fff;
+}
+#book ul.main p.content{
+	vertical-align: top;
+}
+#book .sub{
+	cursor: pointer;
+	box-shadow: 0 0 10px green;
+}
+#book .sub:hover{
+	border-radius: 1px;
+	background: #f90;
+}
+
+#book ul.list{
+	list-style-type: none;
+}
+#book ul.list li{
+	margin: 0 0 10px 0;
+}

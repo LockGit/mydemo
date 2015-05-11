@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="382a9dd2-4670-4349-89fb-65942da67374" name="Default" comment="" />
+    <ignored path="phalconDemo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="phalconDemo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wealink_dev.git/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.857142" vertical-offset="0" max-vertical-offset="513">
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.571428" vertical-offset="0" max-vertical-offset="741">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.1025145" vertical-offset="570" max-vertical-offset="1862">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="phalcon commands" />
+      <command text="pwd" />
+      <command text="phalcon commands" />
+      <command text="ls" />
+      <command text="phalcon commands" />
+      <command text="phalcon" />
+      <command text=".idea/" />
+      <command text="open" />
+      <command text="cleawr" />
+      <command text="clear" />
+      <command text="cls" />
+      <command text="pwd" />
+      <command text="cd ../" />
+      <command text="pwd" />
+      <command text="cd www" />
+      <command text="pwd" />
+      <command text="phalcon commonds" />
+      <command text="cd wealink_dev.git/" />
+      <command text="pwd" />
+      <command text="phalcon commonds" />
+    </commandsHistory>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../phpstorm/config.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/../phpstorm/demo.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/libraries/server_often/push_company_second_delivery.php.bak" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/wllib3/common/site/require.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/wllib3/common/site/require.php.bak" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/wllib3/common/log/wllog.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/tasks/DeliveryTask.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/libraries/server_often/push_company_second_delivery.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/views/company/jianliSecondDelivery.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/views/company/perfectcontactEdit.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/html5.js" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/wllib4/wl/config/dev.config.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/controllers/AppReleaseController.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/api4.wealink.com/app/tasks/FeedsTask.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/public/index.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/wllib3/async_msg/interface.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/controllers/AppsController.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/controllers/AppsStatController.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/wllib3/common/config/dev.config.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/m.wealink.com/app/library/Hooks.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/wllib3/common/db/common.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/wllib3/common/site/bd_url.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/wllib3/common/db/mongodb_base.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/controllers/CompanyController.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/newcrm.wealink.com/app/models/crm/models/Customer.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/newcrm.wealink.com/app/helpers/wl/helper/crm/Tag.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/newcrm.wealink.com/app/controllers/AccountController.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/newcrm.wealink.com/app/models/crm/models/Base.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/test.php" />
+        <option value="$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/secure/controllers/RegController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.4" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wealink_dev.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wealink_dev.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wllib4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wealink_dev.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wllib4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wealink_dev.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wllib4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wealink_dev.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="channels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wealink_dev.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="channels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend2.wealink.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wealink_dev.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="channels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend2.wealink.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wealink_dev.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="channels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend2.wealink.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wealink_dev.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="channels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend2.wealink.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wealink_dev.git" />
+    <property name="recentsLimit" value="5" />
+    <property name="js.buildTools.gulp.node_interpreter" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript 1.5" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\wealink_dev.git\wllib3\common\site" />
+      <recent name="D:\wamp\www\wealink_dev.git\channels\backend2.wealink.com\libraries\server_often" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.test.php">
+    <configuration default="false" name="cli.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/cli.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="push_company_second_delivery.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/libraries/server_often/push_company_second_delivery.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DeliveryTask.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/tasks/DeliveryTask.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../wealink_dev.git/test.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AppReleaseController.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/controllers/AppReleaseController.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.database.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="8f29e5d5-8a53-4f89-9d1a-849e740ce339" server_name="local">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <option name="name" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="Node-webkit">
+      <option name="name" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.cli.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.push_company_second_delivery.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.DeliveryTask.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.test.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.AppReleaseController.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.test.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.AppReleaseController.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.DeliveryTask.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.push_company_second_delivery.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.cli.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\newadmin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="382a9dd2-4670-4349-89fb-65942da67374" name="Default" comment="" />
+      <created>1429025240778</created>
+      <option name="number" value="Default" />
+      <updated>1429025240778</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15213676" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32820514" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37435898" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18957704" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18277946" sideWeight="0.49889135" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17673716" sideWeight="0.50110865" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1517129" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967373" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1897436" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="33" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/search/solr_client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3500967" vertical-offset="275" max-vertical-offset="22192">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/common/config/dev.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41955194" vertical-offset="7033" max-vertical-offset="7524">
+          <caret line="386" column="55" selection-start-line="386" selection-start-column="37" selection-end-line="386" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/search/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29400387" vertical-offset="342" max-vertical-offset="31521">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/libraries/processor/unit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66344297" vertical-offset="14648" max-vertical-offset="16473">
+          <caret line="789" column="45" selection-start-line="789" selection-start-column="45" selection-end-line="789" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/jobs/OpPositionCandidate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3326886" vertical-offset="13223" max-vertical-offset="19342">
+          <caret line="705" column="31" selection-start-line="705" selection-start-column="31" selection-end-line="705" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/cli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60943395" vertical-offset="0" max-vertical-offset="1482">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/tasks/AsyncTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35849056" vertical-offset="0" max-vertical-offset="1387">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/user/concern.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3500967" vertical-offset="9775" max-vertical-offset="17917">
+          <caret line="524" column="20" selection-start-line="524" selection-start-column="20" selection-end-line="524" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/static.wealink.com/backend/js/jquery.cm_dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3633027" vertical-offset="2726" max-vertical-offset="4427">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/secure/views/reg/hr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36750484" vertical-offset="627" max-vertical-offset="4598">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/secure/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4735849" vertical-offset="781" max-vertical-offset="1311">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/bole/config/route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8245283" vertical-offset="627" max-vertical-offset="1159">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/secure/controllers/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.1800948" vertical-offset="3895" max-vertical-offset="18791">
+          <caret line="201" column="26" selection-start-line="201" selection-start-column="26" selection-end-line="201" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/user/views/welcome/default_index_new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.8053691" vertical-offset="4452" max-vertical-offset="12920">
+          <caret line="294" column="195" selection-start-line="294" selection-start-column="195" selection-end-line="294" selection-end-column="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/gongsi/controllers/JianjieController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.97651005" vertical-offset="20146" max-vertical-offset="40717">
+          <caret line="1045" column="20" selection-start-line="1045" selection-start-column="20" selection-end-line="1045" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36655948" vertical-offset="0" max-vertical-offset="437">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/common/db/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.21140939" vertical-offset="5725" max-vertical-offset="6232">
+          <caret line="298" column="13" selection-start-line="298" selection-start-column="13" selection-end-line="298" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/common/site/bd_url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6688103" vertical-offset="5568" max-vertical-offset="10146">
+          <caret line="304" column="47" selection-start-line="304" selection-start-column="42" selection-end-line="304" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/common/db/farm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29865772" vertical-offset="728" max-vertical-offset="5814">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/user/passport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36241612" vertical-offset="1583" max-vertical-offset="5700">
+          <caret line="89" column="37" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/common/cache/memcache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36241612" vertical-offset="1963" max-vertical-offset="4408">
+          <caret line="109" column="34" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/dangan/views/mail_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1111112" vertical-offset="11536" max-vertical-offset="12160">
+          <caret line="616" column="75" selection-start-line="616" selection-start-column="72" selection-end-line="616" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/secure/controllers/RegController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19117647" vertical-offset="2532" max-vertical-offset="8626">
+          <caret line="136" column="81" selection-start-line="136" selection-start-column="65" selection-end-line="136" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/secure/views/reg/hr_dialog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33088234" vertical-offset="252" max-vertical-offset="2527">
+          <caret line="18" column="92" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/user/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5261122" vertical-offset="31150" max-vertical-offset="170449">
+          <caret line="1681" column="54" selection-start-line="1681" selection-start-column="50" selection-end-line="1681" selection-end-column="62" />
+          <folding>
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="update user_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="update user_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="update user_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select id fr..user_attach..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT uid F..user..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT uid F..user_mail..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT uid F..user_mail..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT email..user..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT uid, ..user..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_privacy..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..user_language..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..user_language..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select id fr..user_language..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..user_attachment..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..user_itskill..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..user_itskill..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select id fr..user_itskill..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT `id` ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT count..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select id fr..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT uid,e..user..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT uid,e..user_mail..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT uid,e..user_mail..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT uid F..user..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_mail..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_auth..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_auth..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_mail..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT uid F..user_mail..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE user ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE user ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..user_profile..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..user_edu..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..user_work..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..user_profile..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..user_work..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT uid F..user_profile..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_attr_aid..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_mail..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT ${$fi..user_mail..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT count..user_mail..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT count..wl_comment..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT count..wl_comment..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT count..wl_comment..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE wl_co..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT iIsOp..wl_comment..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE wl_co..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT conte..wl_comment..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..wl_comment..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_avatar_history..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="update user_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_contact..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..user_work..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..user_edu..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..user_profile..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..user_project..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..user_training..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..user_cert..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..user_addi..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT uid F..user_profile..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select disti..company_staff..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select count..company_staff..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..company_staff..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select GROUP..uid..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select uid,c..user_training..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select GROUP..uid..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select uid,c..user_work..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..company..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT GROUP..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT GROUP..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT GROUP..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_reg_log..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..auth_basic..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..hr_basic..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="update hr_ba..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="update auth_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="update hr_wo..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="update auth_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="update hr_ed..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..auth_hr_information$..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..hr_information$..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..t_refresh_setting$..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT id FR..user_visit_history_last..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..user_visit_history_last..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT count..user_visit_history_last..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT count..user_visit_history_last..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select count..t_have_jianli$..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..t_have_jianli$..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..t_renmai_bole_jianli_time$..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select count..t_entrust_resume_auto_reply$..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="select * fro..t_entrust_resume_auto_reply$..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE t_hav..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE t_hav..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE t_hav..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="UPDATE t_hav..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT ${$fi..t_user_share..." />
+            <marker date="1430388471834" expanded="true" signature="-1:-1" placeholder="SELECT count..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/dangan/controllers/DanganController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2959381" vertical-offset="34959" max-vertical-offset="38209">
+          <caret line="1848" column="40" selection-start-line="1848" selection-start-column="40" selection-end-line="1848" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/common/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5773585" vertical-offset="781" max-vertical-offset="1311">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="530">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/common/db/db.lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="18639">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/common/db/mysqlbase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6745">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/common/db/clusterdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2812">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/common/db/model/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1482">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib4/wl/config/dev.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2150943" vertical-offset="2" max-vertical-offset="1444">
+          <caret line="36" column="15" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/common/db/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.011605" vertical-offset="0" max-vertical-offset="5643">
+          <caret line="218" column="1" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/Autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4864">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/config/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7640232" vertical-offset="0" max-vertical-offset="2071">
+          <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib4/wl/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21509434" vertical-offset="0" max-vertical-offset="530">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib4/wl/config/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.667311" vertical-offset="3154" max-vertical-offset="5320">
+          <caret line="39" column="53" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="53" />
+          <folding>
+            <element signature="e#7#37#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib4/wl/config/loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1471698" vertical-offset="0" max-vertical-offset="1083">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib4/wl/config/require.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6811321" vertical-offset="0" max-vertical-offset="530">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/wllib3/common/site/require.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8820116" vertical-offset="0" max-vertical-offset="5244">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.857142" vertical-offset="0" max-vertical-offset="513">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/about/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.003773585" vertical-offset="743" max-vertical-offset="1273">
+          <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/about/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32264152" vertical-offset="0" max-vertical-offset="530">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/config/modules.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28679246" vertical-offset="0" max-vertical-offset="1197">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/config/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.85686654" vertical-offset="443" max-vertical-offset="1102">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/config/loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/apps/about/config/route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.003773585" vertical-offset="154" max-vertical-offset="684">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/app/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="545">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/www.wealink.com/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.571428" vertical-offset="0" max-vertical-offset="741">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wealink_dev.git/channels/backend2.wealink.com/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1025145" vertical-offset="570" max-vertical-offset="1862">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
